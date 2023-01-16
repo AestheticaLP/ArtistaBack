@@ -15,10 +15,7 @@ module.exports = {
     sourceType: 'module'
   },
   ignorePatterns: ['/lib/**/*'],
-  plugins: [
-    '@typescript-eslint',
-    'import'
-  ],
+  plugins: ['@typescript-eslint'],
   rules: {
     '@typescript-eslint/adjacent-overload-signatures': 2,
     '@typescript-eslint/array-type': [2, {ArrayOption: 'generic'}],
