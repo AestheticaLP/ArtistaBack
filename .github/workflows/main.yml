@@ -1,0 +1,13 @@
+name: CI
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install modules
+      run: yarn
+    - name: Cd into the working folder
+      run: cd functions
+    - name: Run ESLint
+      run: npx eslint . --ext .tsx
