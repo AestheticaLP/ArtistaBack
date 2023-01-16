@@ -29,13 +29,6 @@ module.exports = {
     ],
     '@typescript-eslint/class-literal-property-style': [2, 'fields'],
     '@typescript-eslint/comma-dangle': [2, 'never'],
-    '@typescript-eslint/comma-spacing': [
-      2,
-      {
-        before: false,
-        after: true
-      }
-    ],
     '@typescript-eslint/consistent-indexed-object-style': [2, 'record'],
     '@typescript-eslint/consistent-type-assertions': [2, {assertionStyle: 'as'}],
     '@typescript-eslint/consistent-type-definitions': [2, 'type'],
