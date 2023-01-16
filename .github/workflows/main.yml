@@ -5,9 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Go into the working folder
-      run: cd functions
     - name: Install dependencies
-      run: npm install
+      run: cd functions; npm install
     - name: Run ESLint
-      run: npx eslint .
+      run: cd functions; npx eslint .
