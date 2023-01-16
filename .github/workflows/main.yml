@@ -5,11 +5,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+    - name: Go into the working folder
+      run: cd functions
     - name: Install modules
       run: yarn
     - name: Install dependencies
       run: npm install
-    - name: Go into the working folder
-      run: cd functions
     - name: Run ESLint
       run: npx eslint .
