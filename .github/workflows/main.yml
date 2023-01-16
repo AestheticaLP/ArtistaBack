@@ -10,4 +10,4 @@ jobs:
     - name: Cd into the working folder
       run: cd functions
     - name: Run ESLint
-      run: npx eslint . --ext .ts
+      run: find . -name '*.ts?'
