@@ -7,7 +7,9 @@ jobs:
     - uses: actions/checkout@v2
     - name: Install modules
       run: yarn
-    - name: Cd into the working folder
+    - name: Install dependencies
+      run: npm install
+    - name: Go into the working folder
       run: cd functions
     - name: Run ESLint
       run: npx eslint .
