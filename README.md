@@ -3,6 +3,7 @@
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=AestheticaLP/Artistafront)
 
 <img src="https://img.shields.io/github/issues/AestheticaLP/Artistafront.svg">
+<img src="https://img.shields.io/github/issues-pr/AestheticaLP/Artistafront.svg">
 
 <p align="right">
   <a href="https://github.com/AestheticaLP/ArtistaFront">
