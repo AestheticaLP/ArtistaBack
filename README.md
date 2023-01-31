@@ -36,30 +36,19 @@
 ### Clone the project 📋
 In ssh
 ```sh
-git clone git@github.com:AestheticaLP/ArtistaFront.git
+git clone git@github.com:AestheticaLP/ArtistaBack.git
 ```
 
 ### Go the project folder 📂
 ```bash
-cd ArtistaFront
+cd ArtistaBack/functions
 ```
 ### Install dependencies 🐡
 ```sh
 npm install
 ```
 
-### Create a local.properties file :page_facing_up:
-```sh
-cp local.properties.example android/local.properties
-```
-Then change the link to your Sdk
-
-### Build the app on your phone or emulator 📱
-```sh
-npm run android
-```
-
-### Run metro and reload Ⓜ️
-```sh
-npm start
+### Run the project
+```bash
+npm run serve
 ```
