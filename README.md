@@ -24,7 +24,7 @@
 </a>
 <br />
 <a href="https://rnfirebase.io/">
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=React&logoColor=white" alt="RnFirebase">
+  <img src="https://img.shields.io/badge/Firebase_ReactNative-039BE5?style=for-the-badge&logo=React&logoColor=white" alt="RnFirebase">
 </a>
 <br />
 <a href="https://firebase.google.com/docs?gclid=CjwKCAiAleOeBhBdEiwAfgmXf7zfcgdLIJXxzmx3xH1ERBWskNzibc1RS_pnXc-KZBQgkrPPExIokxoCHsgQAvD_BwE&gclsrc=aw.ds">
