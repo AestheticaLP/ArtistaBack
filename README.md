@@ -1,9 +1,8 @@
 <h1 align="center">Artista BackEnd</h1>
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=AestheticaLP/Artistafront)
 <p>
-  <img src="https://img.shields.io/github/issues/AestheticaLP/Artistafront.svg">
-  <img src="https://img.shields.io/github/issues-pr/AestheticaLP/Artistafront.svg">
+  <img src="https://img.shields.io/github/issues/AestheticaLP/ArtistaBack.svg">
+  <img src="https://img.shields.io/github/issues-pr/AestheticaLP/ArtistaBack.svg">
   <img src="https://github.com/AestheticaLP/ArtistaBack/actions/workflows/main.yml/badge.svg">
 </p>
 
@@ -26,6 +25,9 @@
   <img src="https://img.shields.io/badge/Firebase_ReactNative-16.17.0-8C66E5.svg" alt="React-NativeFirebase">
   <img src="https://img.shields.io/badge/TypeScript-4.8.3-8C66E5.svg" alt="TypeScript">
 </p>
+
+## Contributeurs 🤵 👩‍💼
+![GitHub Contributors Image](https://contrib.rocks/image?repo=AestheticaLP/ArtistaBack)
 
 ## Documentation 📚
 <a href="https://firebase.google.com/docs/functions">
