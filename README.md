@@ -1,6 +1,6 @@
 <h1 align="center">Artista BackEnd</h1>
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=AestheticaLP/ArtistaBack)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=AestheticaLP/Artistafront)
 
 <p align="right">
   <a href="https://github.com/AestheticaLP/ArtistaFront">
