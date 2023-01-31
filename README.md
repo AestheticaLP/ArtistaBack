@@ -14,21 +14,22 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Firebase_Admin-10.0.2-8C66E5.svg" alt="FirebaseAdmin">
   <img src="https://img.shields.io/badge/Firebase_Functions-3.18.0-8C66E5.svg" alt="FirebaseFunctions">
-  <img src="https://img.shields.io/badge/Firebase_ReactNative-3.18.0-8C66E5.svg" alt="React-NativeFirebase">
+  <img src="https://img.shields.io/badge/Firebase_ReactNative-16.17.0-8C66E5.svg" alt="React-NativeFirebase">
   <img src="https://img.shields.io/badge/TypeScript-4.8.3-8C66E5.svg" alt="TypeScript">
 </p>
 
 ## Documentation 📚
 <a href="https://firebase.google.com/docs/functions">
-  <img src="https://img.shields.io/badge/Firebase_Functions-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="FirebaseFunction">
+  <img src="https://img.shields.io/badge/Firebase_Functions-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="FirebaseFunction">
 </a>
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 <br />
 <a href="https://rnfirebase.io/">
   <img src="https://img.shields.io/badge/React_Native_Firebase-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="RnFirebase">
 </a>
 <br />
 <a href="https://firebase.google.com/docs?gclid=CjwKCAiAleOeBhBdEiwAfgmXf7zfcgdLIJXxzmx3xH1ERBWskNzibc1RS_pnXc-KZBQgkrPPExIokxoCHsgQAvD_BwE&gclsrc=aw.ds">
-  <img src="https://img.shields.io/badge/Firebase-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
 </a>
 <br />
 
