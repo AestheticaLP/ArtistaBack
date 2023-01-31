@@ -22,10 +22,9 @@
 <a href="https://firebase.google.com/docs/functions">
   <img src="https://img.shields.io/badge/Firebase_Functions-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="FirebaseFunction">
 </a>
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 <br />
 <a href="https://rnfirebase.io/">
-  <img src="https://img.shields.io/badge/React_Native_Firebase-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="RnFirebase">
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=React&logoColor=white" alt="RnFirebase">
 </a>
 <br />
 <a href="https://firebase.google.com/docs?gclid=CjwKCAiAleOeBhBdEiwAfgmXf7zfcgdLIJXxzmx3xH1ERBWskNzibc1RS_pnXc-KZBQgkrPPExIokxoCHsgQAvD_BwE&gclsrc=aw.ds">
