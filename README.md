@@ -2,6 +2,8 @@
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=AestheticaLP/Artistafront)
 
+<img src="https://img.shields.io/github/issues/AestheticaLP/Artistafront.svg">
+
 <p align="right">
   <a href="https://github.com/AestheticaLP/ArtistaFront">
     <img src="https://img.shields.io/badge/FrontEnd-100000?style=for-the-badge&logo=github&logoColor=white" alt="React-Native">
