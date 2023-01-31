@@ -4,6 +4,7 @@
 
 <img src="https://img.shields.io/github/issues/AestheticaLP/Artistafront.svg">
 <img src="https://img.shields.io/github/issues-pr/AestheticaLP/Artistafront.svg">
+[![CI](https://github.com/AestheticaLP/ArtistaBack/actions/workflows/main.yml/badge.svg)](https://github.com/AestheticaLP/ArtistaBack/actions/workflows/main.yml)
 
 <p align="right">
   <a href="https://github.com/AestheticaLP/ArtistaFront">
